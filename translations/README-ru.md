@@ -548,7 +548,7 @@ Google не возьмёт тебя на работу.
     - [ ] [Коды машинных инструкций(video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 ## Сложность алгоритмов, Big-O, Асимптотический анализ
-- [ ] [Harvard CS50 - Асимптотическая нотация (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [x] [Harvard CS50 - Асимптотическая нотация (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O нотация (основное, короткое руководство) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O нотация (и Omega и Theta) - лучшее математическое объяснение (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
